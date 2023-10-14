@@ -16,7 +16,7 @@
 - rename/move files (mv)
 
 3. What are relative and absolute paths? What is special about starting with a ~ (tilde) or a ‘/’ character in the path?
--
+- Relative path is where you end up based on the current working directory. Absolute path is when the command given will have the same effect regardless of what the current working directory is. 
 
 4. Explain what Linux is, using anything except English.
 -
@@ -30,3 +30,4 @@
 - linux is kind of a descendent of Unix. It is designed to function similarly.
 
 ## Things I want to know more about 
+- I would like to understand the entirety of this topic a bit more.
