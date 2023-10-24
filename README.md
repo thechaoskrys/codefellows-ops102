@@ -26,6 +26,7 @@ This is the reading notes for my Ops classes.
 - [Reading 12](ops-201d14-reading-12.md)
 - [Reading 13](ops-201d14-reading-13.md)
 - [Reading 14](ops-201d14-reading-14.md)
+- [Reading 10](classreading4.md)
 
 ## Ops 301: Networking and Systems Administration
 
