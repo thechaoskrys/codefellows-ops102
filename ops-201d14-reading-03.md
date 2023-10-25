@@ -12,7 +12,7 @@
 3. **Why have security skills become more important in recent years for help desk technicians?**
 - In recent years, there is an emphasis placed on security skills as attacks by criminals and attackers become more frequent. Malware has become a common threat and help desk technicians need to be able to identify symptoms of malware. 
  
-4. **How do writing skills and critical thinking skills play a vital role in the work of help desk technicians?** nx  
+4. **How do writing skills and critical thinking skills play a vital role in the work of help desk technicians?** 
 
 ### Notes from article 
 
